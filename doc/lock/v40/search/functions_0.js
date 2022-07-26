@@ -12,7 +12,7 @@ var searchData=
   ['dev_5ffacestartreg_9',['Dev_FaceStartReg',['../_device_8h.html#a50a1f5ff997b648ea11c6d79e4c4f6db',1,'Device.h']]],
   ['dev_5ffaceunreg_10',['Dev_FaceUnreg',['../_device_8h.html#a30b0aae402e2aec03aeb8a1c73fb8cef',1,'Device.h']]],
   ['dev_5ffaceunregall_11',['Dev_FaceUnregAll',['../_device_8h.html#a114bc2ce268ded3360ac87038e3eed54',1,'Device.h']]],
-  ['dev_5ffingersetchardata_12',['Dev_FingerSetCharData',['../_device_8h.html#ac48e39f1fac40fc3c0f7c2b97484e1b5',1,'Device.h']]],
+  ['dev_5ffingersetchardata_12',['Dev_FingerSetCharData',['../_device_8h.html#a111137b7a04d02f9bf0997ba5abd765f',1,'Device.h']]],
   ['dev_5ffingersetcharend_13',['Dev_FingerSetCharEnd',['../_device_8h.html#a1957f5bf2d5501e4cb8f9188263a12d0',1,'Device.h']]],
   ['dev_5ffingersetcharstart_14',['Dev_FingerSetCharStart',['../_device_8h.html#a20aa171f67b2b408274f440c0bae3110',1,'Device.h']]],
   ['dev_5ffingerstartreg_15',['Dev_FingerStartReg',['../_device_8h.html#a616f682799b37e574cf676a2138b6e2f',1,'Device.h']]],
