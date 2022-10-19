@@ -15,7 +15,7 @@
             if (['index.html', 'README.md'].includes(file.name)) {
                 continue;
             }
-            htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+            htmlString += `<li><a href="/${file.path}">${file.name}</a></li>`;
         }
 
         htmlString += '</ul>';
