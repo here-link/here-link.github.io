@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/mini/alipay/v1/face/static/js/main.78a532d5.js",
+    "static/js/toyger.wasm": "/mini/alipay/v1/face/static/js/toyger.wasm",
+    "static/js/gwcli1-2-5.wasm": "/mini/alipay/v1/face/static/js/gwcli1-2-5.wasm",
+    "index.html": "/mini/alipay/v1/face/index.html",
+    "main.78a532d5.js.map": "/mini/alipay/v1/face/static/js/main.78a532d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78a532d5.js"
+  ]
+}
